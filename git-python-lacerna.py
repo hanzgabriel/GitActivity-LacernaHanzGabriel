@@ -1,3 +1,6 @@
 print ("Hanz Gabriel Regencia Lacerna")
 print ("Barangay Banahaw Santa Cruz Marinduque")
 print ("January 26, 2004")
+print ("College of Information and Computing Sciences")
+print ("IT")
+print ("2C")
